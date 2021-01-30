@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-<iframe src="[https://ubc-geob472-spring2021.github.io/jagreen1-web/test-sketch.html" height="300" width="500"></iframe>
+<iframe src="https://ubc-geob472-spring2021.github.io/jagreen1-web/test-sketch.html) height="300" width="500"></iframe>
+https://github.com/UBC-GEOB472-Spring2021/jagreen1-web/blob/gh-pages/index.md
 
 You can use the [editor on GitHub](https://github.com/UBC-GEOB472-Spring2021/jagreen1-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
