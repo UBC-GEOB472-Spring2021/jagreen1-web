@@ -45,40 +45,40 @@ function draw() {
   
   
     line(width/2 + x_offset, height/4 + y_offset, width * 3/8 + x_offset, height * 3/8 + y_offset);
-      line(width * 3/8 + x_offset, height * 3/8 + y_offset, width/2 + x_offset, height/2 + y_offset);
-      line(width/2 + x_offset, height/4 + y_offset, width/2 + width/4 + x_offset, height/2 + y_offset);
-      line(width/2 + width/4 + x_offset, height/2 + y_offset, width/2 + x_offset, height/2 + height/4 + y_offset);
-      line(width/2 + x_offset, height/2 + y_offset, width/2 + x_offset, height/2 + height/4 + y_offset);
+    line(width * 3/8 + x_offset, height * 3/8 + y_offset, width/2 + x_offset, height/2 + y_offset);
+    line(width/2 + x_offset, height/4 + y_offset, width/2 + width/4 + x_offset, height/2 + y_offset);
+     line(width/2 + width/4 + x_offset, height/2 + y_offset, width/2 + x_offset, height/2 + height/4 + y_offset);
+     line(width/2 + x_offset, height/2 + y_offset, width/2 + x_offset, height/2 + height/4 + y_offset);
 
-      fill(0,200,250);
-      strokeWeight(2);
-      stroke(75);
-      ellipse(width/2 + width/40 + x_offset, height/2 - width/40 + y_offset,  20);
+     fill(0,200,250);
+     strokeWeight(2);
+     stroke(75);
+     ellipse(width/2 + width/40 + x_offset, height/2 - width/40 + y_offset,  20);
       
-      fill(0,180,250);
-      strokeWeight(2);
-      stroke(75);
-      ellipse(width/2 + 6*width/40 + x_offset, height/2 + 2*width/40 + y_offset,  30);
+     fill(0,180,250);
+     strokeWeight(2);
+     stroke(75);
+     ellipse(width/2 + 6*width/40 + x_offset, height/2 + 2*width/40 + y_offset,  30);
       
-      fill(0,120,250);
-      strokeWeight(2);
-      stroke(75);
-      ellipse(width/2 + 5*width/40 + x_offset, height/2 - 2*width/40 + y_offset,  60);
+     fill(0,120,250);
+     strokeWeight(2);
+     stroke(75);
+     ellipse(width/2 + 5*width/40 + x_offset, height/2 - 2*width/40 + y_offset,  60);
       
-      fill(0,160,250);
-      strokeWeight(2);
-      stroke(75);
-      ellipse(width/2 + 3*width/40 + x_offset, height/2 + 4*width/40 + y_offset,  40);
+     fill(0,160,250);
+     strokeWeight(2);
+     stroke(75);
+     ellipse(width/2 + 3*width/40 + x_offset, height/2 + 4*width/40 + y_offset,  40);
       
-      fill(0,80,250);
-      strokeWeight(2);
-      stroke(75);
-      ellipse(width/2 - 3*width/40 + x_offset, height/2 - 5*width/40 + y_offset,  80);
+    fill(0,80,250);
+    strokeWeight(2);
+    stroke(75);
+    ellipse(width/2 - 3*width/40 + x_offset, height/2 - 5*width/40 + y_offset,  80);
       
-      strokeWeight(2);
-      stroke(75);
-      fill(0,100,250);
-      ellipse(width/2 + x_offset, height/2 - 6*width/40 + y_offset,  70);
+    strokeWeight(2);
+    stroke(75);
+    fill(0,100,250);
+    ellipse(width/2 + x_offset, height/2 - 6*width/40 + y_offset,  70);
   
 
 
