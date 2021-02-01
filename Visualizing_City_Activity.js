@@ -8,8 +8,10 @@ rows = y_canvas/scales;
 
 neatline_offset = 80;
 
-y_offset = 50;
-x_offset = 50;
+
+//Change the x_offset and y_offset values to reposition the image
+y_offset = 0;
+x_offset = 0;
 
 function setup() {
   createCanvas(x_canvas, y_canvas);
@@ -20,6 +22,7 @@ function draw() {
   textSize(16)
   textAlign(CENTER, CENTER);
   
+  //Create a Grid
   // stroke(200);
   // for(x=0; x<cols; x++){
   //   for(y=0; y<rows; y++){
